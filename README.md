@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikolaj</h1>
-<h3 align="center">A passionate developer from Denmark</h3>
+<h3 align="center">Developer from Denmark</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolaj1307&label=Profile%20views&color=0e75b6&style=flat" alt="nikolaj1307" /> </p>
 
